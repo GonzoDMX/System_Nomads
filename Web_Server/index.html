@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<style type="text/css">
+	body {
+		text-align: center;
+	}
+	div {
+		text-align: center;
+		height: 100%;
+		width: 100%;
+		border: 4px solid #FFFFFF;
+	}
+	select {
+		height: 100%;
+		width: 35%;
+		border: 6px solid #FF0000;
+	}
+</style>
+</head>
+<body>
+
+<h1 id="header">Andrew Detector</h1>
+
+<div>
+	<select multiple size="20" onchange="onSelectItem(this.options[this.selectedIndex].value)">
+		<option></option>
+	</select>
+</div>
+
+<img id="img_box" src="" alt="No Image Available">
+
+
+
+</body>
+<script type="text/javascript">
+var img_var = localStorage.getItem('img_val')
+if (img_var == null){
+	img_var = "photo_log/image_1.jpg"
+	document.getElementById('img_box').src = img_var;
+} else{
+	document.getElementById('img_box').src = img_var;
+}
+function onSelectItem(item){
+	localStorage.setItem('img_val', item);
+	location.reload();
+}
+</script>
+</html>
