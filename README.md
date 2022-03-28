@@ -7,35 +7,35 @@ Project for a university course. It involves training and then deploying a machi
 </p>
 
 <p align="center">
-  <img style="width: 50%; height: 50%; text-align: center;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_02.png">
+  <img style="width: 80%; height: 80%;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_02.png">
 </p>
 
 <p align="center">
-  <img style="width: 50%; height: 50%; text-align: center;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_03.png">
+  <img style="width: 80%; height: 80%;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_03.png">
 </p>
 
 <p align="center">
-  <img style="width: 50%; height: 50%; text-align: center;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_04.png">
+  <img style="width: 80%; height: 80%;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_04.png">
 </p>
 
 <p align="center">
-  <img style="width: 50%; height: 50%; text-align: center;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_05.png">
+  <img style="width: 80%; height: 80%;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_05.png">
 </p>
 
 <p align="center">
-  <img style="width: 50%; height: 50%; text-align: center;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_06.png">
+  <img style="width: 80%; height: 80%;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_06.png">
 </p>
 
 <p align="center">
-  <img style="width: 50%; height: 50%; text-align: center;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_07.png">
+  <img style="width: 80%; height: 80%;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_07.png">
 </p>
 
 <p align="center">
-  <img style="width: 50%; height: 50%; text-align: center;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_08.png">
+  <img style="width: 80%; height: 80%;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_08.png">
 </p>
 
 <p align="center">
-  <img style="width: 50%; height: 50%; text-align: center;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_09.png">
+  <img style="width: 80%; height: 80%;" src="https://github.com/GonzoDMX/System_Nomads/blob/main/assets/slide_09.png">
 </p>
 
 ## For more info
